@@ -1,0 +1,5 @@
+# Intro
+
+```sh
+$ psql postgres
+```
